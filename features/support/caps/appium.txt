@@ -1,0 +1,6 @@
+[caps]
+platformName = "iOS"
+deviceName = "iPhone 8"
+platformVersion = "13.3"
+app = "FasTip.app"
+automationName = "XCUITest"
